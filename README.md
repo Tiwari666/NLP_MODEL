@@ -13,6 +13,13 @@ This is an LLM model because GPT-2 has:
 --Generative and Versatile: GPT-2 can generate text and is adaptable for tasks like text classification, which you are using in your project.
 
 
+#Difference Between GPT-2 and Other LLMs:
+
+--GPT-2 is an autoregressive language model, meaning it generates text one word at a time, predicting the next word based on previous ones.
+
+--Other LLMs like BERT are designed for tasks like text classification and question answering, whereas GPT-2 is often used for text generation.
+
+
 ![image](https://github.com/user-attachments/assets/837cb61d-c04c-4e78-9b67-2ed5c3d1022b)
 
 
