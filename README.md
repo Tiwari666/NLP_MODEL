@@ -19,6 +19,8 @@ This is an LLM model because GPT-2 has:
 
 --Other LLMs like BERT are designed for tasks like text classification and question answering, whereas GPT-2 is often used for text generation.
 
+# Guide to Machine Learning Libraries and Models by Leading Tech Companies
+
 
 ![image](https://github.com/user-attachments/assets/837cb61d-c04c-4e78-9b67-2ed5c3d1022b)
 
